@@ -1,3 +1,1 @@
-# Corgito,
-# ergo
-# sum
+# Corgito, # ergo, # sum
