@@ -1,0 +1,39 @@
+
+
+body {
+  color: #82a5ca;
+  font-family: Orbitron, sans-serif;
+  font-weight: 800;
+  margin: 0;
+  text-align: center;
+}
+
+.hero {
+  padding-bottom: 600px;
+  background-image: url('../images/space.webp');
+  background-size: cover;
+}
+
+#title {
+  text-shadow: 0px 0px 4px black;
+}
+
+.btn {
+  color: #82a5ca;
+  font-family: Orbitron, sans-serif;
+  font-weight: 800;
+  padding: 6px 12px;
+  background: white;
+  border: none;
+}
+
+#logo {
+  width: 100px;
+}
+
+.underline {
+  text-decoration: underline;
+  text-decoration-color: white;
+  text-decoration-thickness: 4px;
+  text-underline-offset: 10px;
+}
